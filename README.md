@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+#Features
 
-You can use the [editor on GitHub](https://github.com/jerald-jacob/jerald-jacob.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+- Responsive Layout powered by Bootstrap 3
+- Built with w3 validated HTML5 & CSS3
+- Modern Design
+- Full Screen Header Background
+- Optimized Code & Content
+- Showcase your work more attractively.
+- HiDPI / Retina Ready
+- Clean Code
+- IE 9 support
+- SEO Optimized
+- 100% Fully Customizable
+- Sticky Header
+- Google Fonts
+- Strong focus on Usability and UX
+- FontAwesome Icon Integrated
+- Powered by Google Hosted Library and MaxCDN. 
+- Minified CSS and Js included for Faster loading. 
+- Clean and stylish UI
+- Well commented coding
+- Easy to use
+- It's Free!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#Screenshot
 
-### Markdown
+![Screenshot of HTML 5]
+(https://raw.githubusercontent.com/technext/Developer/master/Features/html5.png)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+#Demo Link
+Check out the demo of Flusk responsive HTML template at (http://themewagon.com/demo/Developer/)
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jerald-jacob/jerald-jacob.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
