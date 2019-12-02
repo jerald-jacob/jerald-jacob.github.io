@@ -110,7 +110,8 @@ a:hover {
 	font-weight:900;
 }
 .navbar-brand h1 span {
-	color: #1BBD36;
+  color: #1BBD36;
+  height: 400;
 }
 
 .menu {
@@ -389,7 +390,6 @@ a:hover {
 
 .partners ul li{
   display: inline-block;
-  float: left;
   width: 20%;
 }
 
